@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C167E480-A1C3-4600-B0D0-C26C7329D7A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AEdeveloper</RootNamespace>
+    <AssemblyName>AEdeveloper</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=6.8.0.1, Culture=neutral, PublicKeyToken=e2e022990f6c7501, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetMagic2005, Version=5.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DotNetMagic2005.DLL</HintPath>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.3DAnalyst, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.ADF, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=x86" />
+    <Reference Include="ESRI.ArcGIS.AxControls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.Carto, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Controls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.DataSourcesFile, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.DataSourcesGDB, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.DataSourcesRaster, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Display, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.GeoAnalyst, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geodatabase, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geometry, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.GlobeCore, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Output, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.System, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.SystemUI, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Version, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutOpenData.cs" />
+    <Compile Include="AttribuateTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttribuateTable.Designer.cs">
+      <DependentUpon>AttribuateTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\MapSlightSeeing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\MapSlightSeeing.Designer.cs">
+      <DependentUpon>MapSlightSeeing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit.cs" />
+    <Compile Include="MyBaseTool\LayerVisibility.cs" />
+    <Compile Include="MyBaseTool\OpenAttributeTable.cs" />
+    <Compile Include="MyBaseTool\pPointSearch.cs" />
+    <Compile Include="MyBaseTool\RemoveLayer.cs" />
+    <Compile Include="MyBaseTool\ReMoveMap.cs" />
+    <Compile Include="Control\MyMapContext.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\MyMapContext.Designer.cs">
+      <DependentUpon>MyMapContext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ResourceManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ResourceManagement.Designer.cs">
+      <DependentUpon>ResourceManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainform.Designer.cs">
+      <DependentUpon>Mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyBaseTool\SearchAndZoomIn.cs" />
+    <Compile Include="MyBaseTool\TrackRectangleQuary.cs" />
+    <Compile Include="MyBaseTool\TrackZoomIn.cs" />
+    <Compile Include="MyBaseTool\TrackZoomOut.cs" />
+    <Compile Include="MyBaseTool\ZoomToLayer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchByAttribute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchByAttribute.Designer.cs">
+      <DependentUpon>SearchByAttribute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SymbolSelectorFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SymbolSelectorFrm.Designer.cs">
+      <DependentUpon>SymbolSelectorFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AttribuateTable.resx">
+      <DependentUpon>AttribuateTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\MapSlightSeeing.resx">
+      <DependentUpon>MapSlightSeeing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\MyMapContext.resx">
+      <DependentUpon>MyMapContext.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ResourceManagement.resx">
+      <DependentUpon>ResourceManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainform.resx">
+      <DependentUpon>Mainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SearchByAttribute.resx">
+      <DependentUpon>SearchByAttribute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SymbolSelectorFrm.resx">
+      <DependentUpon>SymbolSelectorFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LayerGroupNew32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZoomFixedZoomOut321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZoomFixedZoomIn32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZoomInTool32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZoomOutTool32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3DFlyTool32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditingEditTool32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyBaseTool\LayerVisibility.png" />
+    <None Include="Resources\EditRedo_B_32.png" />
+    <None Include="Resources\EditUndo_B_32.png" />
+    <None Include="Resources\AttributesWindow32.png" />
+    <None Include="Resources\EditingSelectVertexTool32.png" />
+    <None Include="Resources\CadastralZoomToSelected32.png" />
+    <None Include="Resources\3DZoomToTarget32.png" />
+    <None Include="Resources\CadastralPRImage3_321.png" />
+    <None Include="Resources\EditingValidateFeatures32.png" />
+    <None Include="Resources\ElementSelectTool32.png" />
+    <None Include="Resources\PanTool_B_32.png" />
+    <None Include="Resources\ArcReader48.png" />
+    <None Include="Resources\DataFrameNew32.png" />
+    <None Include="Resources\GenericSave_B_32.png" />
+    <None Include="Resources\GenericSaveAs32.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties ESRIImportCache="ESRI.ArcGIS.DataSourcesRaster|ESRI.ArcGIS.Display|ESRI.ArcGIS.esriSystem|ESRI.ArcGIS.Geodatabase|ESRI.ArcGIS.Geometry|ESRI.ArcGIS.GlobeCore|ESRI.ArcGIS.Output|ESRI.ArcGIS.SystemUI" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

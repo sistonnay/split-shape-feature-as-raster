@@ -1,0 +1,147 @@
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.pdb
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.GenerateResource.Cache
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csprojResolveAssemblyReference.cache
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+E:\About Ae Develop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe
+E:\About Ae Develop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.pdb
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.8.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.8.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.9.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.9.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.ResolveComReference.cache
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+E:\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe.config
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.pdb
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.ResolveComReference.cache
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.GenerateResource.Cache
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+C:\Users\TAILE\Desktop\About Ae Develop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe.config
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.pdb
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.8.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.9.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.8.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.9.tlog
+C:\Users\Administrator\Desktop\AE\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe.config
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.pdb
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.8.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.read.9.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.8.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource-ResGen.write.9.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\MyApp\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SymbolSelectorFrm.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe.config
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.ResolveComReference.cache
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+C:\Users\TAILE\Desktop\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SymbolSelectorFrm.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe.config
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.ResolveComReference.cache
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csprojResolveAssemblyReference.cache
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SymbolSelectorFrm.resources
+G:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.GenerateResource.Cache
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe.config
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.exe
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\bin\Debug\AEdeveloper.pdb
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.AttribuateTable.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MapSlightSeeing.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.MyMapContext.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Control.ResourceManagement.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Mainform.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.Properties.Resources.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SearchByAttribute.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.SymbolSelectorFrm.resources
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csproj.GenerateResource.Cache
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.exe
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.pdb
+F:\MyData\课件数据\必修课\二次开发\Develop\综合实习\AEdeveloper\AEdeveloper\obj\x86\Debug\AEdeveloper.csprojResolveAssemblyReference.cache
